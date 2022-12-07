@@ -1,0 +1,23 @@
+{
+  "name": "projet-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint . --ext js,jsx,ts,tsx --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiekhou/projet-git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chiekhou/projet-git/issues"
+  },
+  "homepage": "https://github.com/chiekhou/projet-git#readme",
+  "devDependencies": {
+    "eslint": "^8.29.0"
+  }
+}
