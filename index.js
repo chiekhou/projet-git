@@ -1,4 +1,5 @@
-const numbers = [1, 2, 3, 4, 5]
+const numbers = [1, 2, 3, 4]
+const numbers2 = [1, 2, 3, 4, 5, 6, 7, 8]
 const numbersCount = numbers.length
 
 let index = 0
