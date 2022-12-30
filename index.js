@@ -5,6 +5,7 @@ const numbersCount = numbers.length
 let index = 0
 let sum = 0
 
+//boucle sum table items elements
 while (index < numbersCount) {
     const number = numbers[index]
 
