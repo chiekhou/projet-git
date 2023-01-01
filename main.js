@@ -20,3 +20,5 @@ $("#main-nav a").on('click', function (event) {
         });
     }
 });
+
+console.log('Je signe sur le commit de Karim')
