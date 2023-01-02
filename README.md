@@ -1,3 +1,14 @@
 # Projet-Git Soutenance 4IW1 2022/2023  
 
-C'est un projet de soutenance pour notre formation d'ingénieurie web en 4eme année . Les acteurs de ce projet sont Nourdine YOUSSOUF , Ahmed Karim NJIAWOUO et Chiekhou TRAORE . Nous partons d'un projet simple pour réaliser le sujet qui nous à été imposé. 
+Projet de soutenance pour la formation d'ingénieurie web 4eme année.
+Réalisé par: Nourdine YOUSSOUF , Ahmed Karim NJIAWOUO et Chiekhou TRAORE.
+Nous partons d'un projet simple pour réaliser le sujet qui nous à été imposé.
+
+## Lancer le projet
+npm start
+
+## Par defaut, le lien suivant permet de consulter le projet en local
+http://localhost:3000/
+
+## Intaller un nouveau package node
+npm install packege_name

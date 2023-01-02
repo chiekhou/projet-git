@@ -2,10 +2,12 @@
   "name": "projet-git",
   "version": "2.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "drivepermis/index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lint": "eslint . --ext js,jsx,ts,tsx --fix"
+    "lint": "eslint . --ext js,jsx,ts,tsx --fix",
+    "server":"lite-server",
+    "start":"npm run server"
   },
   "repository": {
     "type": "git",
@@ -18,6 +20,7 @@
   },
   "homepage": "https://github.com/chiekhou/projet-git#readme",
   "devDependencies": {
-    "eslint": "^8.29.0"
+    "eslint": "^8.29.0",
+    "lite-server": "^2.6.1"
   }
 }
