@@ -4,10 +4,8 @@
   "description": "",
   "main": "drivepermis/index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "lint": "eslint . --ext js,jsx,ts,tsx --fix",
-    "server":"lite-server",
-    "start":"npm run server"
+    "server": "lite-server",
+    "start": "npm run server"
   },
   "repository": {
     "type": "git",
@@ -21,6 +19,10 @@
   "homepage": "https://github.com/chiekhou/projet-git#readme",
   "devDependencies": {
     "eslint": "^8.29.0",
-    "lite-server": "^2.6.1"
+    "lite-server": "^2.6.1",
+    "pre-commit": "^1.2.2"
+  },
+  "dependencies": {
+    "hooks": "^0.3.2"
   }
 }
