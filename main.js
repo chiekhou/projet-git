@@ -3,6 +3,10 @@
 /* ************************************** CODE PRINCIPAL *************************************** */
 /*************************************************************************************************/
 
+
+// "test": "mocha -R spec main.js --exit",
+// "lint": "eslint . --ext js,jsx,ts,tsx --fix",
+
 $(document).ready(function () {
     $('#year').text(new Date().getFullYear());
 
